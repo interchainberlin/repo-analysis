@@ -1,0 +1,82 @@
+,issue_no,created_at,closed_at,assignees_no,labels,closes_no,author_association,comments_no,title,url
+0,1266,2022-02-15 13:50:39+00:00,,1,[],0,MEMBER,0.0,Run github repo-analysis tool for start of sprint,https://api.github.com/repos/cosmos/gaia/issues/1266
+1,1265,2022-02-15 12:36:34+00:00,,0,[],0,MEMBER,0.0,Register subdomains for cosmos hub history endpoints,https://api.github.com/repos/cosmos/gaia/issues/1265
+2,1264,2022-02-15 08:27:21+00:00,,0,[],0,MEMBER,1.0,Create Archive Node Setup for Cosmos hub 4,https://api.github.com/repos/cosmos/gaia/issues/1264
+3,1263,2022-02-15 07:45:13+00:00,,0,[],0,MEMBER,0.0,Setup Cosmos Hub container registry,https://api.github.com/repos/cosmos/gaia/issues/1263
+4,1262,2022-02-15 07:30:50+00:00,,0,['Epic'],0,MEMBER,0.0,Infrastructure,https://api.github.com/repos/cosmos/gaia/issues/1262
+5,1261,2022-02-15 07:27:55+00:00,,0,['Epic'],0,MEMBER,0.0,v7 Theta Release,https://api.github.com/repos/cosmos/gaia/issues/1261
+6,1260,2022-02-15 07:23:57+00:00,,0,['Epic'],0,MEMBER,0.0,Security Enhancements,https://api.github.com/repos/cosmos/gaia/issues/1260
+7,1259,2022-02-15 07:13:23+00:00,,0,['Epic'],0,MEMBER,0.0,Improving User Experience,https://api.github.com/repos/cosmos/gaia/issues/1259
+8,1258,2022-02-14 13:20:57+00:00,,0,['Epic'],0,MEMBER,3.0,Pooltoy Enhancements,https://api.github.com/repos/cosmos/gaia/issues/1258
+9,1257,2022-02-11 00:09:33+00:00,,0,[],0,CONTRIBUTOR,1.0,update to cosmos sdk v0.44.6,https://api.github.com/repos/cosmos/gaia/issues/1257
+10,1256,2022-02-10 18:50:41+00:00,,0,[],0,MEMBER,0.0,chore: update changelog,https://api.github.com/repos/cosmos/gaia/issues/1256
+11,1253,2022-02-10 15:07:09+00:00,,0,[],0,MEMBER,2.0,feat: e2e test suite,https://api.github.com/repos/cosmos/gaia/issues/1253
+12,1252,2022-02-10 11:36:39+00:00,,1,[],0,MEMBER,3.0,release gaia v6.0.1,https://api.github.com/repos/cosmos/gaia/issues/1252
+13,1251,2022-02-10 10:07:13+00:00,,0,"['dependencies', 'github_actions']",0,CONTRIBUTOR,0.0,Bump actions/setup-go from 2.1.5 to 2.2.0,https://api.github.com/repos/cosmos/gaia/issues/1251
+14,1249,2022-02-09 23:21:13+00:00,,0,[],0,MEMBER,1.0,Initialize code analysis,https://api.github.com/repos/cosmos/gaia/issues/1249
+15,1248,2022-02-09 18:58:34+00:00,,0,[],0,MEMBER,0.0,create end to end tests,https://api.github.com/repos/cosmos/gaia/issues/1248
+16,1247,2022-02-09 18:57:30+00:00,,1,[],0,MEMBER,0.0,github actions cleanup,https://api.github.com/repos/cosmos/gaia/issues/1247
+17,1246,2022-02-09 15:23:44+00:00,,0,[],0,MEMBER,0.0,"Groups module - Enables higher-level multisig permissioned accounts, e.g., weight-based voting policies",https://api.github.com/repos/cosmos/gaia/issues/1246
+18,1244,2022-02-09 14:43:19+00:00,,1,['docs'],0,MEMBER,0.0,DOCS: Deploy Testnet needs an update,https://api.github.com/repos/cosmos/gaia/issues/1244
+19,1241,2022-02-08 10:01:55+00:00,,1,[],0,NONE,7.0,Rosetta Error 502 after upgrading to v6.0.0,https://api.github.com/repos/cosmos/gaia/issues/1241
+20,1240,2022-02-07 18:36:57+00:00,,0,['Epic'],0,MEMBER,0.0,Process improvements around provisioning and maintaining test instances,https://api.github.com/repos/cosmos/gaia/issues/1240
+21,1238,2022-02-07 15:48:08+00:00,,2,[],0,MEMBER,2.0,Support full history of cosmos hub,https://api.github.com/repos/cosmos/gaia/issues/1238
+22,1229,2022-02-03 17:59:51+00:00,,1,[],0,MEMBER,6.0,delegation and redelegation amount bug,https://api.github.com/repos/cosmos/gaia/issues/1229
+23,1223,2022-01-31 17:36:28+00:00,,0,['Epic'],0,MEMBER,0.0,Staking Vouchers,https://api.github.com/repos/cosmos/gaia/issues/1223
+24,1221,2022-01-31 16:26:07+00:00,,2,[],0,MEMBER,0.0,make link checker action a requirement for PRs to be merged,https://api.github.com/repos/cosmos/gaia/issues/1221
+25,1219,2022-01-28 13:51:47+00:00,,1,['sim'],0,MEMBER,1.0,v07-Theta prepare,https://api.github.com/repos/cosmos/gaia/issues/1219
+26,1216,2022-01-27 12:05:49+00:00,,1,[],0,MEMBER,1.0,Gaia Upgrade has better logs,https://api.github.com/repos/cosmos/gaia/issues/1216
+27,1215,2022-01-27 11:44:22+00:00,,2,[],0,MEMBER,0.0,Theta Release Meta Issue,https://api.github.com/repos/cosmos/gaia/issues/1215
+28,1201,2022-01-19 17:43:48+00:00,,0,[],0,MEMBER,0.0,Networks,https://api.github.com/repos/cosmos/gaia/issues/1201
+29,1200,2022-01-19 17:43:43+00:00,,0,[],0,MEMBER,0.0,Audits,https://api.github.com/repos/cosmos/gaia/issues/1200
+30,1199,2022-01-19 17:43:38+00:00,,0,[],0,MEMBER,0.0,Testing,https://api.github.com/repos/cosmos/gaia/issues/1199
+31,1198,2022-01-19 17:43:29+00:00,,0,[],0,MEMBER,0.0,Education,https://api.github.com/repos/cosmos/gaia/issues/1198
+32,1197,2022-01-19 17:43:26+00:00,,0,[],0,MEMBER,0.0,Marketing,https://api.github.com/repos/cosmos/gaia/issues/1197
+33,1195,2022-01-19 17:42:58+00:00,,0,[],0,MEMBER,0.0,Timelines and Roadmap,https://api.github.com/repos/cosmos/gaia/issues/1195
+34,1194,2022-01-19 17:42:53+00:00,,0,[],0,MEMBER,0.0,Steering community,https://api.github.com/repos/cosmos/gaia/issues/1194
+35,1193,2022-01-19 17:42:50+00:00,,0,[],0,MEMBER,0.0,Core community governance,https://api.github.com/repos/cosmos/gaia/issues/1193
+36,1192,2022-01-19 17:42:47+00:00,,0,[],0,MEMBER,0.0,Hub governance proposal,https://api.github.com/repos/cosmos/gaia/issues/1192
+37,1191,2022-01-19 17:42:42+00:00,,0,[],0,MEMBER,0.0,"Inter-module dependence, e.g., pegs",https://api.github.com/repos/cosmos/gaia/issues/1191
+38,1190,2022-01-19 17:42:40+00:00,,0,[],0,MEMBER,0.0,Upstream partner impact report,https://api.github.com/repos/cosmos/gaia/issues/1190
+39,1189,2022-01-19 17:42:36+00:00,,0,[],0,MEMBER,0.0,Downstream user impact report,https://api.github.com/repos/cosmos/gaia/issues/1189
+40,1186,2022-01-19 17:42:24+00:00,,0,[],0,MEMBER,0.0,Gaia integration,https://api.github.com/repos/cosmos/gaia/issues/1186
+41,1177,2022-01-19 17:41:38+00:00,,0,[],0,MEMBER,0.0,ADR/Specification,https://api.github.com/repos/cosmos/gaia/issues/1177
+42,1174,2022-01-19 17:36:35+00:00,,0,['Epic'],0,MEMBER,0.0,Interchain Accounts,https://api.github.com/repos/cosmos/gaia/issues/1174
+43,1173,2022-01-19 16:21:23+00:00,,1,['testnet'],0,MEMBER,0.0,Theta testnet progress tracking,https://api.github.com/repos/cosmos/gaia/issues/1173
+44,1162,2022-01-18 09:16:04+00:00,,1,['docs'],0,MEMBER,0.0,Fix missing search bar on hub docs for all window sizes,https://api.github.com/repos/cosmos/gaia/issues/1162
+45,1157,2022-01-12 14:22:57+00:00,,1,[],0,MEMBER,2.0,Either update or remove the changelog document in the Migration dir,https://api.github.com/repos/cosmos/gaia/issues/1157
+46,1150,2022-01-10 14:30:55+00:00,,0,[],0,MEMBER,2.0,Ica acct auth,https://api.github.com/repos/cosmos/gaia/issues/1150
+47,1129,2021-12-20 09:34:44+00:00,,0,[],0,NONE,10.0,Error 502 after upgrading to v6.0.0,https://api.github.com/repos/cosmos/gaia/issues/1129
+48,1122,2021-12-16 09:52:13+00:00,,2,['build'],0,MEMBER,2.0,use merging to back port to long lived branch,https://api.github.com/repos/cosmos/gaia/issues/1122
+49,1067,2021-11-16 15:06:23+00:00,,0,"['governance', 'nice to have']",0,MEMBER,3.0,Archive IPFS links in old governance proposals,https://api.github.com/repos/cosmos/gaia/issues/1067
+50,1054,2021-11-05 14:53:23+00:00,,2,['docs'],0,MEMBER,4.0,Automate and improve paramater documenting process,https://api.github.com/repos/cosmos/gaia/issues/1054
+51,1048,2021-10-28 13:21:06+00:00,,1,['nice to have'],0,MEMBER,4.0,Add CI job to cover important IBC features,https://api.github.com/repos/cosmos/gaia/issues/1048
+52,978,2021-09-18 09:33:20+00:00,,0,['governance'],0,MEMBER,4.0,make more gov proposals,https://api.github.com/repos/cosmos/gaia/issues/978
+53,977,2021-09-18 09:32:01+00:00,,0,"['docs', 'code-hygiene', 'governance']",0,MEMBER,5.0,Clean up Gaia repo,https://api.github.com/repos/cosmos/gaia/issues/977
+54,966,2021-09-13 11:03:37+00:00,,2,['build'],0,MEMBER,0.0,support upgrade to tendermint 0.35,https://api.github.com/repos/cosmos/gaia/issues/966
+55,959,2021-08-30 03:51:59+00:00,,1,"['enhancement', 'build']",0,CONTRIBUTOR,1.0,Automatically download Genesis,https://api.github.com/repos/cosmos/gaia/issues/959
+56,943,2021-08-18 15:52:53+00:00,,2,"['enhancement', 'build']",0,MEMBER,11.0,add seed nodes to binary,https://api.github.com/repos/cosmos/gaia/issues/943
+57,938,2021-08-09 05:07:32+00:00,,1,"['more-info-needed', 'stale']",0,NONE,2.0,failed to execute message : insufficient fund,https://api.github.com/repos/cosmos/gaia/issues/938
+58,1035,2021-08-07 12:43:17+00:00,,1,"['docs', 'governance']",0,MEMBER,4.0,deduplicate previous proposals file,https://api.github.com/repos/cosmos/gaia/issues/1035
+59,927,2021-07-30 11:45:56+00:00,,0,[],0,CONTRIBUTOR,2.0,Default inbound connections,https://api.github.com/repos/cosmos/gaia/issues/927
+60,916,2021-07-19 07:11:17+00:00,,0,['enhancement'],0,NONE,3.0,Docker for gaia 5.x.x,https://api.github.com/repos/cosmos/gaia/issues/916
+61,902,2021-07-12 03:35:18+00:00,,0,['code-hygiene'],0,MEMBER,2.0,Set a standard for choosing upgrade plan names,https://api.github.com/repos/cosmos/gaia/issues/902
+62,1036,2021-06-25 22:35:23+00:00,,0,['docs'],0,MEMBER,2.0,multi-language translation strategy,https://api.github.com/repos/cosmos/gaia/issues/1036
+63,887,2021-06-25 15:08:10+00:00,,0,"['good first issue', 'devops']",0,CONTRIBUTOR,3.0,Disable unnecessary checks when updating only md files,https://api.github.com/repos/cosmos/gaia/issues/887
+64,1038,2021-06-10 18:24:33+00:00,,0,"['docs', 'governance']",0,MEMBER,1.0,Deduplicate information and update cli commands in submitting.md,https://api.github.com/repos/cosmos/gaia/issues/1038
+65,870,2021-06-04 10:48:18+00:00,,0,[],0,NONE,2.0,Use 'file' as the default keyring on the headless Linux systems,https://api.github.com/repos/cosmos/gaia/issues/870
+66,846,2021-05-04 11:32:33+00:00,,0,[],0,CONTRIBUTOR,2.0,Identify and develop gaia-specific tests,https://api.github.com/repos/cosmos/gaia/issues/846
+67,831,2021-04-22 20:53:12+00:00,,0,[],0,NONE,1.0,gaiad keys parse as endpoint for API,https://api.github.com/repos/cosmos/gaia/issues/831
+68,822,2021-04-15 19:51:24+00:00,,0,['stale'],0,CONTRIBUTOR,2.0,Consider adding DCO to repo,https://api.github.com/repos/cosmos/gaia/issues/822
+69,819,2021-04-13 15:34:20+00:00,,0,[],0,CONTRIBUTOR,2.0,Add version into gaia-issued validator messages,https://api.github.com/repos/cosmos/gaia/issues/819
+70,811,2021-04-12 12:24:57+00:00,,0,[],0,NONE,1.0,Using gaiad CLI commands leaves dangling dbus-daemon processes,https://api.github.com/repos/cosmos/gaia/issues/811
+71,801,2021-04-01 16:55:52+00:00,,0,['stale'],0,CONTRIBUTOR,0.0,Fortio RPC response time testing,https://api.github.com/repos/cosmos/gaia/issues/801
+72,796,2021-03-26 10:48:01+00:00,,0,[],0,NONE,2.0,multisign：couldn't verify signature: unable to verify single signer signature,https://api.github.com/repos/cosmos/gaia/issues/796
+73,719,2021-03-03 14:56:35+00:00,,0,[],0,CONTRIBUTOR,1.0,[Hub] Improve CLI UX for joining mainnet,https://api.github.com/repos/cosmos/gaia/issues/719
+74,705,2021-02-27 11:44:41+00:00,,0,[],0,CONTRIBUTOR,1.0,One-Liner install script,https://api.github.com/repos/cosmos/gaia/issues/705
+75,673,2021-02-21 13:46:59+00:00,,0,['bug'],0,NONE,2.0,validator set is nil in genesis and still empty after InitChain,https://api.github.com/repos/cosmos/gaia/issues/673
+76,662,2021-02-19 15:05:29+00:00,,0,['docs'],0,CONTRIBUTOR,0.0,Ensure documentation for kms usage is present and clear,https://api.github.com/repos/cosmos/gaia/issues/662
+77,626,2021-02-12 17:02:18+00:00,,0,[],0,MEMBER,1.0,IBC Client Update Proposals are incorrectly routed,https://api.github.com/repos/cosmos/gaia/issues/626
+78,590,2021-01-28 03:12:44+00:00,,0,[],0,MEMBER,3.0,Summary of Ledger Nano Transaction Signing,https://api.github.com/repos/cosmos/gaia/issues/590
+79,577,2021-01-26 03:26:59+00:00,,0,[],0,MEMBER,5.0,KMS Signing support for relayer txs,https://api.github.com/repos/cosmos/gaia/issues/577
+80,1042,2020-10-18 15:07:49+00:00,,1,"['docs', 'governance']",0,MEMBER,3.0,Update ParamChange proposals with more details about where to find keys,https://api.github.com/repos/cosmos/gaia/issues/1042
